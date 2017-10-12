@@ -69,7 +69,7 @@ if (isset($_POST["usernamesignup"]) && $_POST["usernamesignup"] != '' && isset($
 		.fontsize{font-size: 20px;font-weight: 600;}
 		.blog-posts h2{font-size:25px;}
 				.forgot-pass{font-size: 14px;
-margin-left: -60px;
+margin-left: -50px;
 letter-spacing: 1px;
 }
 	</style>
